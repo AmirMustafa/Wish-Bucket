@@ -3,6 +3,10 @@
 A Node JS repository which uses Mongo DB Atlas as the database. This is basically a CRUD operation which uses latest js fetch request send. In the backend used Node JS
 as the server which connects with the Mongo DB Atlas Cloud
 
+## Project Video
+Heroku Project - https://wish-bucket.herokuapp.com/
+Video of project(full working + code explain)- https://www.loom.com/share/fecc880e539a4f49a57c239f0650ad50
+
 ## Installation
 1. Clone the React App
 2. Run npm install, node app or npm start
