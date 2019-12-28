@@ -1,0 +1,17 @@
+{
+  "name": "wish-list",
+  "version": "1.0.0",
+  "description": "awesome app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Amir Mustafa",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3"
+  }
+}
